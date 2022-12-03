@@ -10,7 +10,7 @@ import threading
 import pathlib
 from datetime import datetime
 
-TOKEN = '5539063247:AAHuuxlcXqixTJoqoqDtvBDyrjnGza0VcB0'
+TOKEN = ''
 SESSION = Session(bind = engine)
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
