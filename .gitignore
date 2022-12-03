@@ -1,0 +1,4 @@
+__pycache__/
+site.db
+env/
+saved_receipts/
